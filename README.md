@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## 📚Interests
 - backend
 - database
-- computer security
 - cloud
 
 ## 💻Tech stack
