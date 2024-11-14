@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ## 📫Contact
 <a href="https://github.com/zjhj0814" target="_blank"><img src="https://img.shields.io/badge/zjhj0814@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
-<a href="tibetyo.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
+<a href="https://tibetyo.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat&logo=Tistory&logoColor=FFFFFF"/></a>
